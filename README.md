@@ -1,1 +1,1 @@
-natours
+nature
